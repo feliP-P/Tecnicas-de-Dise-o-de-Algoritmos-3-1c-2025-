@@ -1,3 +1,5 @@
+#resolución del problema A de:
+#https://codeforces.com/contests/601138
 '''
 import time
 def templadobottomup(matriz):
